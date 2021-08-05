@@ -1,5 +1,3 @@
-# DOM - knowledge check
-
 ## What is the DOM?
 
 The Document Object Model. used to programatically change html using javascript
